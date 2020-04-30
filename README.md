@@ -1,4 +1,4 @@
-* # Text_Mining_Twitter
+# Text_Mining_Twitter
 ## Introduction:
 - This project is to copmare the performance of clustring two different datasets using the k-means algorithm.
 - the open source ElasticSearch framework is used to extract 1,000,000 tweets for a specific hashtag using Logstash.
